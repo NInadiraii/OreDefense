@@ -1,0 +1,9 @@
+[24756:15820:0611/162203.616:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24756:15820:0611/162203.738:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24756:15820:0611/162209.273:ERROR:device_event_log_impl.cc(196)] [16:22:08.948] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[3496:3436:0611/162209.275:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-372A7EBCC49244BCAAF0EFB5D071E7BF will be ignored
+[24756:24480:0611/162211.132:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[24756:15820:0611/184246.492:ERROR:device_event_log_impl.cc(196)] [18:42:46.320] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[24756:15820:0611/184246.492:ERROR:device_event_log_impl.cc(196)] [18:42:46.392] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[24756:15820:0611/184246.492:ERROR:device_event_log_impl.cc(196)] [18:42:46.436] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[24756:15820:0611/184246.492:ERROR:device_event_log_impl.cc(196)] [18:42:46.453] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)

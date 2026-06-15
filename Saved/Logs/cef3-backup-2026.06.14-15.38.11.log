@@ -1,0 +1,9 @@
+[20952:26536:0614/093244.154:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20952:26536:0614/093244.227:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20952:26536:0614/093257.775:ERROR:device_event_log_impl.cc(196)] [09:32:57.171] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9760:2028:0614/093257.936:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A78A000F89FDA796A6DA36CEA9B080AA will be ignored
+[20952:21668:0614/093259.509:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[1524:9848:0614/131045.395:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-FCEEAD89768C9F4BFE8DBD5562815D11 will be ignored
+[18848:2456:0614/163146.414:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[18848:2456:0614/193609.782:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[20952:26536:0614/223811.113:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

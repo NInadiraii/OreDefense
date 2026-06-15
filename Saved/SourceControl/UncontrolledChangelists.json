@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/Untitled.umap",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/BP_BaseCore.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/BP_Enemy.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/OreDefense_main.umap",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/BP_Tower.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/WBP_HealthBar.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/BP_OresController.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/BP_OresGameMode.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/BP_EnemySpawner.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/BP_TowerSlot.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/BP_Ultra.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/BP_GameInstance.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/IA_CameraOrbit.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/IMC_Camera.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/BP_CameraPawn.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/WBP_HUD.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/WBP_GameScreen.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/Ncore_Glow.uasset",
+				"C:/Users/ADMIN/Documents/Unreal Projects/curetoboredom/Content/WBP_GameWin.uasset"
+			]
+		}
+	]
+}

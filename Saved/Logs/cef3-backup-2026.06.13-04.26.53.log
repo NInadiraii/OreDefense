@@ -1,0 +1,7 @@
+[26896:22816:0613/070844.668:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26896:22816:0613/070844.772:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26236:23732:0613/070849.932:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E42463420112727709E161FDB48DB1D5 will be ignored
+[26896:22816:0613/070849.938:ERROR:device_event_log_impl.cc(196)] [07:08:49.938] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[26896:22576:0613/070852.150:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[26896:22816:0613/091925.066:ERROR:device_event_log_impl.cc(196)] [09:19:24.926] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[26896:22816:0613/112653.676:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
